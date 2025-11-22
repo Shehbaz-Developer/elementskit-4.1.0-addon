@@ -50,5 +50,4 @@ This plugin is licensed under **GPL-3.0**.
 ## Author
 
 **Shehbaz Developer**  
-Website: [Your Website URL]  
 GitHub: [https://github.com/Shehbaz-Developer](https://github.com/Shehbaz-Developer)
